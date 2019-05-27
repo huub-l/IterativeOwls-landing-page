@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Letter Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Letter-Copy-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(13.000000, 140.000000)">
+            <g id="Group-2" transform="translate(257.200000, 0.000000)" fill-rule="nonzero">
+                <g id="Group" transform="translate(15.750000, 0.000000)">
+                    <circle id="Oval-Copy-3" fill="#FDDA01" cx="225.75" cy="225.75" r="225.75"></circle>
+                    <path d="M394.708751,375.473561 C423.006128,340.425072 439.95,295.828763 439.95,247.275 C439.95,134.484647 348.515353,43.05 235.725,43.05 C122.934647,43.05 31.5,134.484647 31.5,247.275 C31.5,358.44003 120.318464,448.860396 230.862544,451.44325 C229.162924,451.481017 227.458679,451.5 225.75,451.5 C101.071718,451.5 0,350.428282 0,225.75 C0,101.071718 101.071718,0 225.75,0 C350.428282,0 451.5,101.071718 451.5,225.75 C451.5,283.194773 430.043985,335.628224 394.708751,375.473561 Z" id="Combined-Shape-Copy" fill-opacity="0.3" fill="#4A4A4A"></path>
+                    <circle id="Oval-Copy-4" fill="#FDDA01" cx="235.725" cy="247.275" r="204.225"></circle>
+                    <path d="M183.208971,422.466844 C187.651152,422.67131 192.119721,422.774667 196.612431,422.774667 C311.53696,422.774667 410.665296,355.143122 456.368343,257.509127 C456.723324,262.106907 456.90411,266.753502 456.90411,271.442322 C456.90411,370.02515 376.986938,449.942322 278.40411,449.942322 C243.406457,449.942322 210.761244,439.870329 183.208971,422.466844 Z" id="Combined-Shape-Copy-2" fill-opacity="0.623337" fill="#FFFFFF" transform="translate(320.056541, 353.725725) rotate(-8.000000) translate(-320.056541, -353.725725) "></path>
+                    <path d="M451.5,225.75 C451.5,101.071718 350.428282,0 225.75,0 C101.071718,0 0,101.071718 0,225.75 C0,350.428282 101.071718,451.5 225.75,451.5" id="Path-Copy" stroke="#6E3E13" stroke-width="31.5" stroke-linecap="round"></path>
+                    <path d="M231,58.8 C254.065061,76.3 273.725682,99.05 289.981864,127.05 C306.238045,155.05 324.339662,195.3 344.286714,247.8 C356.674616,190.41321 347.602711,147.01321 317.070997,117.6 C286.539283,88.18679 257.848951,68.58679 231,58.8 Z" id="Path-13-Copy" fill="#BCA100" transform="translate(290.325000, 153.300000) scale(-1, 1) translate(-290.325000, -153.300000) "></path>
+                    <path d="M225.75,14.7 C101.071718,14.7 0,115.771718 0,240.45" id="Path-Copy-3" stroke="#6E3E13" stroke-width="31.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(112.875000, 127.575000) scale(-1, 1) translate(-112.875000, -127.575000) "></path>
+                    <path d="M451.5,14.7 C326.821718,14.7 225.75,115.771718 225.75,240.45" id="Path-Copy-4" stroke="#6E3E13" stroke-width="31.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="Oval-Copy-5" stroke="#6E3E13" stroke-width="18.9" fill="#6E3E13" cx="127.575" cy="222.075" r="34.125"></circle>
+                    <circle id="Oval-Copy-6" stroke="#6E3E13" stroke-width="18.9" fill="#6E3E13" cx="323.925" cy="222.075" r="34.125"></circle>
+                    <path d="M451.5,222.6 C451.5,270.2 438.9,314.3 413.7,354.9 C388.5,395.5 343,426.3 277.2,447.3" id="Path-11-Copy" stroke="#6E3E13" stroke-width="31.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Path-12-Copy" stroke="#6E3E13" stroke-width="31.5" stroke-linecap="round" stroke-linejoin="round" points="316.575 376.95 275.1 449.4 358.05 468.3"></polyline>
+                    <circle id="Oval" fill="#FDDA01" cx="156.45" cy="222.6" r="17.85"></circle>
+                    <circle id="Oval-Copy-7" fill="#FDDA01" cx="353.85" cy="221.55" r="17.85"></circle>
+                </g>
+                <ellipse id="Oval" fill="#E5E5E5" cx="242.55" cy="544.425" rx="242.55" ry="13.125"></ellipse>
+            </g>
+            <text id="ITERATIVE-OWLS" font-family="Raleway-ExtraLight, Raleway" font-size="126" font-weight="300" line-spacing="310" letter-spacing="-0.944999287" fill="#6E3E13">
+                <tspan x="1.23099501" y="678.55">ITERATIVE OWLS</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
