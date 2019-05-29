@@ -23,9 +23,32 @@ html, body{
 }
 
 .bg-primary {
-  background-color: #3d82c3 !important;
+  /* background-color: #4791ce !important; */
+  background-color: #0586FF !important;
 }
 
 .footer-dark {
   background-color: #4A4A4A !important;
+}
+
+.back-to-top {
+  position: fixed;
+  display: none;
+  background: #111;
+  color: #fff;
+  width: 44px;
+  height: 44px;
+  text-align: center;
+  line-height: 1;
+  font-size: 16px;
+  border-radius: 50%;
+  right: 15px;
+  bottom: 15px;
+  transition: background 0.5s;
+  z-index: 11;
+}
+
+.back-to-top i {
+  padding-top: 12px;
+  color: #fff;
 }
