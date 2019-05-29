@@ -14,8 +14,16 @@ html, body{
   height: 100vh;
 }
 
+.bg-landing {
+  background-color: #f4b11a !important;
+}
+
+.bg-project-overview {
+  background-color: #8461a4 !important;
+}
+
 .bg-primary {
-  background-color: #0586FF !important;
+  background-color: #3d82c3 !important;
 }
 
 .footer-dark {
