@@ -13,3 +13,11 @@ html, body{
   align-items: center;
   height: 100vh;
 }
+
+.bg-primary {
+  background-color: #0586FF !important;
+}
+
+.footer-dark {
+  background-color: #4A4A4A !important;
+}
