@@ -27,6 +27,11 @@ html, body{
   background-color: #0586FF !important;
 }
 
+.bg-purple {
+  /* background-color: #4791ce !important; */
+  background-color: #ce42fd !important;
+}
+
 .footer-dark {
   background-color: #4A4A4A !important;
 }
@@ -48,10 +53,15 @@ html, body{
   z-index: 11;
 }
 
+.back-to-top {
+  background-color: #4A4A4A;
+}
+
 .back-to-top i {
   padding-top: 12px;
   color: #fff;
 }
+
 
 @media(max-width: 991.95px){
   .mobile-none {
