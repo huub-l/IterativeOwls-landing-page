@@ -1,14 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300,400,600,700);
-
-html, body{
+html, body {
   font-family: Lato;
 }
 
-.fixed-top{
+.fixed-top {
   position: fixed;
 }
 
-.full-height{
+.full-height {
   display: flex;
   align-items: center;
   height: 100vh;
@@ -29,7 +28,12 @@ html, body{
 
 .bg-purple {
   /* background-color: #4791ce !important; */
-  background-color: #ce42fd !important;
+  background-color: #5220DD !important;
+}
+
+.bg-gradient-blue {
+  background: -o-linear-gradient(40deg, #2998fe 0, #042396 100%)!important;
+  background: linear-gradient(50deg, #2998fe,  #042396)!important
 }
 
 .footer-dark {
@@ -62,8 +66,7 @@ html, body{
   color: #fff;
 }
 
-
-@media(max-width: 991.95px){
+@media(max-width: 991.95px) {
   .mobile-none {
     display: none;
   }
