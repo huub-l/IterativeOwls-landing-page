@@ -13,6 +13,10 @@ html, body {
   height: 100vh;
 }
 
+.frame-laptop {
+  margin: 0 -10vw;
+}
+
 .bg-landing {
   background-color: #f4b11a !important;
 }
